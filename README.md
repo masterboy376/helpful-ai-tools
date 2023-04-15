@@ -17,3 +17,10 @@ these are some helpful ai tools:
 15. sketch.metademolab.com: sketch to animation generator
 16. stablediffusionweb.com: oldest text to image generator (old is gold)
 17. chatgpt, bing, bard: daddies of the game
+
+---------------------------------------------
+some useful online tools
+
+1. figma: used to create nice vector images
+2. canava: greate tool for creating quick logos, brochure, etc
+3. spline: web based tool for creating 3d models
