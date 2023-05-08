@@ -17,6 +17,8 @@ these are some helpful ai tools:
 15. sketch.metademolab.com: sketch to animation generator
 16. stablediffusionweb.com: oldest text to image generator (old is gold)
 17. chatgpt, bing, bard: daddies of the game
+18. myheritage.com: image to video
+19. convert.leiapix.com: depth animation in image
 
 ---------------------------------------------
 some useful online tools
