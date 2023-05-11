@@ -22,6 +22,8 @@ these are some helpful ai tools:
 20. cutout.pro: image to real animation 
 21. kaiber.ai: best image to video ai tool available
 22. voice.ai: voice cloning 
+23. vidyo.ai: create short video out of long video
+24. browse.ai
 
 
 ---------------------------------------------
