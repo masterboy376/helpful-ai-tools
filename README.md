@@ -25,6 +25,7 @@ these are some helpful ai tools:
 23. vidyo.ai: create short video out of long video
 24. browse.ai: notifies you when ever it notices a change in a website
 25. repper: repeat image pattern over and over again
+26. doctrina.ai: generate  question paper based on any book
 
 ---------------------------------------------
 some useful online tools
