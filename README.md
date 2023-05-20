@@ -26,7 +26,6 @@ these are some helpful ai tools:
 24. browse.ai: notifies you when ever it notices a change in a website
 25. repper: repeat image pattern over and over again
 
-
 ---------------------------------------------
 some useful online tools
 
