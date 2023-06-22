@@ -26,7 +26,8 @@ these are some helpful ai tools:
 24. browse.ai: notifies you when ever it notices a change in a website
 25. repper: repeat image pattern over and over again
 26. doctrina.ai: generate  question paper based on any book
-
+27. Synthesia: random face video 
+28. Gen1 runway: convert any vedio into animation 
 
 ---------------------------------------------
 some useful online tools
