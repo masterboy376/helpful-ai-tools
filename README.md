@@ -28,6 +28,8 @@ these are some helpful ai tools:
 26. doctrina.ai: generate  question paper based on any book
 27. Synthesia: random face video 
 28. Gen1 runway: convert any vedio into animation 
+29. luna.ai: create drone shots
+30. uncrop.ai: uncrop image
 
 ---------------------------------------------
 some useful online tools
