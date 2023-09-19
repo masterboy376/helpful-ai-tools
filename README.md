@@ -37,3 +37,15 @@ some useful online tools
 1. figma: used to create nice vector images
 2. canava: greate tool for creating quick logos, brochure, etc
 3. spline: web based tool for creating 3d models
+
+---------------------------------------------
+some useful bussiness tools
+
+1. usertest by pivot: is provides you the market fit data for your product
+
+
+---------------------------------------------
+some creator software 
+
+---------------------------------------------
+some Hacking tools
