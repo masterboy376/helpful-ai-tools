@@ -30,6 +30,7 @@ these are some helpful ai tools:
 28. Gen1 runway: convert any vedio into animation 
 29. luna.ai: create drone shots
 30. uncrop.ai: uncrop image
+31. listening.io: to listen to pdf texts.
 
 ---------------------------------------------
 some useful online tools
