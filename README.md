@@ -11,7 +11,7 @@ these are some helpful ai tools:
 9. d-id.com: text to video generator
 10. soundful.com: ai music generator
 11. app.pebbley.com: add background to an image for social media
-12. dalle-2, midjourney, blue willow: generative image ai tool
+12. dalle-2, midjourney, blue willow (lime wire): generative image ai tool
 13. murf.ai, voice.ai(desktop software): text to real human voice
 14. vocalremover.org: seperate vocal and background music in a song
 15. sketch.metademolab.com: sketch to animation generator
