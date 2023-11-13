@@ -1,5 +1,4 @@
-# helpful-ai-tools
-these are some helpful ai tools:
+# Helpful ai tools
 1. Quillbot.com: help to bypass plagrism
 2. eightify.com: to revise anything from a yt vedio
 3. tome.app: to create amazing presentations
@@ -33,20 +32,17 @@ these are some helpful ai tools:
 31. listening.io: to listen to pdf texts.
 
 ---------------------------------------------
-some useful online tools
-
+# Useful online tools
 1. figma: used to create nice vector images
 2. canava: greate tool for creating quick logos, brochure, etc
 3. spline: web based tool for creating 3d models
 
 ---------------------------------------------
-some useful bussiness tools
-
+# Useful bussiness tools
 1. usertest by pivot: is provides you the market fit data for your product
 
+---------------------------------------------
+# Creator software 
 
 ---------------------------------------------
-some creator software 
-
----------------------------------------------
-some Hacking tools
+# Hacking tools
