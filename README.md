@@ -42,6 +42,7 @@
 ---------------------------------------------
 # Useful bussiness tools
 1. usertest by pivot: is provides you the market fit data for your product
+2. odoo: business resource management tool
 
 ---------------------------------------------
 # Creator software 
